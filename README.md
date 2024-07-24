@@ -20,4 +20,4 @@
 - Comparator Interface
   "# Collections-Framework"
 
-youtube linkL: https://www.youtube.com/watch?v=rzA7UJ-hQn4
+youtube link: https://www.youtube.com/watch?v=rzA7UJ-hQn4
